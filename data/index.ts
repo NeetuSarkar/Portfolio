@@ -109,7 +109,6 @@ export const projects = [
   },
 ];
 
-
 export const workExperience = [
   {
     id: 1,
@@ -167,6 +166,8 @@ export const certificates = [
       "Earned from Meta after completing the Frontend Developer Course.",
     img: "/certificates/meta_frontend.jpeg",
     link: "https://www.coursera.org/account/accomplishments/verify/ENSIEBQJI6NZ",
+    quote: "",
+    name: "",
   },
   {
     id: 2,
@@ -175,6 +176,8 @@ export const certificates = [
       "Earned from Coding Ninjas after completing a project based front-end learning course.",
     img: "/certificates/frontend.png",
     link: "https://certificate.codingninjas.com/verify/253a2cb1f894abf5",
+    quote: "",
+    name: "",
   },
   {
     id: 3,
@@ -183,6 +186,8 @@ export const certificates = [
       "Earned from Meta after completing the HTML and CSS Course in depth.",
     img: "/certificates/htmlCss.jpeg",
     link: "https://www.coursera.org/account/accomplishments/verify/V9589R7WM3AW",
+    quote: "",
+    name: "",
   },
   {
     id: 4,
@@ -191,5 +196,73 @@ export const certificates = [
       "Earned from Coding Ninjas after completing the Data Structures in C++, gained good knowledge in Problem Solving.",
     img: "/certificates/dsa.png",
     link: "https://certificate.codingninjas.com/verify/4e3c6a540d22bca7",
+    quote: "",
+    name: "",
+  },
+];
+
+export const testimonials = [
+  {
+    quote:
+      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+    name: "Michael Johnson",
+    title: "Director of AlphaStream Technologies",
+  },
+  {
+    quote:
+      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+    name: "Michael Johnson",
+    title: "Director of AlphaStream Technologies",
+  },
+  {
+    quote:
+      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+    name: "Michael Johnson",
+    title: "Director of AlphaStream Technologies",
+  },
+  {
+    quote:
+      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+    name: "Michael Johnson",
+    title: "Director of AlphaStream Technologies",
+  },
+  {
+    quote:
+      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+    name: "Michael Johnson",
+    title: "Director of AlphaStream Technologies",
+  },
+];
+
+export const companies = [
+  {
+    id: 1,
+    name: "cloudinary",
+    img: "/cloud.svg",
+    nameImg: "/cloudName.svg",
+  },
+  {
+    id: 2,
+    name: "appwrite",
+    img: "/app.svg",
+    nameImg: "/appName.svg",
+  },
+  {
+    id: 3,
+    name: "HOSTINGER",
+    img: "/host.svg",
+    nameImg: "/hostName.svg",
+  },
+  {
+    id: 4,
+    name: "stream",
+    img: "/s.svg",
+    nameImg: "/streamName.svg",
+  },
+  {
+    id: 5,
+    name: "docker.",
+    img: "/dock.svg",
+    nameImg: "/dockerName.svg",
   },
 ];

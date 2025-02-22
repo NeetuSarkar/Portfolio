@@ -1,6 +1,6 @@
 import React from "react";
-import { InfiniteMovingCards } from "./ui/InfiniteMovingCards";
-import { certificates } from "@/data"; // Import certificate data
+import { certificates } from "@/data";
+import { InfiniteMovingCards } from "./ui/InfiniteCards";
 
 const Certificate = () => {
   return (
